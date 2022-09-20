@@ -20,4 +20,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Current UI:
 
-![alt text](https://github.com/keatonelvins/spotiflow/blob/master/ExampleUsage.jpg?raw=true)
+![alt text](https://github.com/keatonelvins/spotiflow/blob/master/ExampleUse.jpg?raw=true)
